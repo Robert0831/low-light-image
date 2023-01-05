@@ -363,7 +363,7 @@ def deep():
     # datasets='C:/imagefinal/datasets'
     # oout='C:/imagefinal'
     # ww='C:/imagefinal/HWMNet-main/model/LOL_enhancement_HWMNet.pth'
-    os.system('C:/Users/acvlab/anaconda3/envs/hwf/python ./HWMNet-main/demo.py --input_dir "%s" --result_dir "%s" --weights "%s"' %(datasets,oout,ww))       
+    os.system('C:/Users/...../python ./HWMNet-main/demo.py --input_dir "%s" --result_dir "%s" --weights "%s"' %(datasets,oout,ww))       
     path=os.path.dirname(os.path.realpath(__file__))
     path=path+'/datasets/'+'temp.jpg'
 
