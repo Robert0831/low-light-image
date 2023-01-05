@@ -1,6 +1,6 @@
 # low-light-image
 
-# Inference
+# Inference-material
 https://github.com/fanchimao/hwmnet
 
 https://learnopencv.com/improving-illumination-in-night-time-images/
